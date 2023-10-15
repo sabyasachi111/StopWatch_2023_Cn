@@ -1,0 +1,42 @@
+body{
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+#btn-container{
+    text-align: center;
+}
+.timer{
+    font-size: 160px;
+    
+}
+
+.tect{
+    font-size: 50px;
+}
+
+
+
+.btn{
+    margin-top: 8vh;
+    height: 7vh;
+    width: 7vw;;
+    font-size: 30px;
+    border-style: none;
+}
+
+#Start{
+    background-color: greenyellow;
+}
+
+#Stop{
+    background-color: red;
+    color: aliceblue;
+}
+
+#Reset{
+    background-color: rgb(45, 45, 181);
+    color: aliceblue;
+}
