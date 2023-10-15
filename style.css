@@ -1,12 +1,22 @@
 body{
     background-color: darkcyan;
+    
+}
+#Heaing{
+    text-align: center;
+    font-size:50px;
+    color: chartreuse;
+}
+#Watch_container{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: 50vh;
 }
 #btn-container{
     text-align: center;
+    
+    
 }
 .timer{
     font-size: 160px;
